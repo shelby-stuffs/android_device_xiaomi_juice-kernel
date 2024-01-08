@@ -8,12 +8,6 @@ alias of:N*T*Cqcom,audio-ref-clk audio_wcd9xxx
 alias of:N*T*Cqcom,audio-ref-clkC* audio_wcd9xxx
 alias of:N*T*Cqcom,wcd-dsp-mgr audio_wcd9xxx
 alias of:N*T*Cqcom,wcd-dsp-mgrC* audio_wcd9xxx
-alias of:N*T*Cqcom,wsa881x-i2c-codec audio_wsa881x_analog
-alias of:N*T*Cqcom,wsa881x-i2c-codecC* audio_wsa881x_analog
-alias i2c:wsa881x-i2c-dev audio_wsa881x_analog
-alias i2c:wsa881x-i2c-dev audio_wsa881x_analog
-alias i2c:wsa881x-i2c-dev audio_wsa881x_analog
-alias i2c:wsa881x-i2c-dev audio_wsa881x_analog
 alias platform:bengal-asoc-snd audio_machine_bengal
 alias of:N*T*Cqcom,bengal-asoc-snd audio_machine_bengal
 alias of:N*T*Cqcom,bengal-asoc-sndC* audio_machine_bengal
@@ -82,5 +76,3 @@ alias platform:soundwire audio_swr
 alias of:N*T*Cqcom,lpi-pinctrl audio_pinctrl_lpi
 alias of:N*T*Cqcom,lpi-pinctrlC* audio_pinctrl_lpi
 alias fs-exfat exfat
-alias of:N*T*Clongcheer,lct_pinctrl audio_lct_pinctrl
-alias of:N*T*Clongcheer,lct_pinctrlC* audio_lct_pinctrl

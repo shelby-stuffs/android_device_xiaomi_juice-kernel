@@ -8,7 +8,6 @@ audio_pinctrl_lpi.ko
 audio_swr.ko
 audio_wcd_core.ko
 audio_swr_ctrl.ko
-audio_wsa881x_analog.ko
 audio_platform.ko
 audio_stub.ko
 audio_wcd9xxx.ko
@@ -25,10 +24,12 @@ audio_rx_macro.ko
 audio_tx_macro.ko
 audio_machine_bengal.ko
 audio_snd_event.ko
-audio_aw87xxx.ko
-audio_lct_pinctrl.ko
 exfat.ko
+audio_aw87359_audio.ko
+audio_aw87519_audio.ko
 qca_cld3_wlan.ko
 exfat.ko
+audio_aw87359_audio.ko
+audio_aw87519_audio.ko
 rdbg.ko
 qca_cld3_wlan.ko
